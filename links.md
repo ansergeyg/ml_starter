@@ -1,4 +1,4 @@
-Istallation & configuration
+Installation & configuration
 
 https://www.youtube.com/watch?v=hHWkvEcDBO0
 
