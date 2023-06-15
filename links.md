@@ -32,3 +32,5 @@ gradient descent interesting application in cp and good short explanation of the
 
 https://codeforces.com/blog/entry/60825
 
+gradient descent good example with some advanced mathematical examples
+https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21
