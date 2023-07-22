@@ -16,6 +16,11 @@ https://www.msys2.org/
 https://code.visualstudio.com/docs/cpp/config-mingw
 
 
+kaggle learning guide:
+
+https://www.kaggle.com/learn
+
+
 advanced stuff I don't understand yet
 
 matricies
