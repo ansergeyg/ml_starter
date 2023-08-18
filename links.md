@@ -15,6 +15,10 @@ https://www.msys2.org/
 
 https://code.visualstudio.com/docs/cpp/config-mingw
 
+Some ideas of what to create for ML (russian):
+
+https://habr.com/ru/companies/yandex_praktikum/articles/755238/
+
 
 kaggle learning guide:
 
