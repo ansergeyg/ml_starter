@@ -19,6 +19,9 @@ Some ideas of what to create for ML (russian):
 
 https://habr.com/ru/companies/yandex_praktikum/articles/755238/
 
+Russian course:
+
+https://dlcourse.ai/
 
 kaggle learning guide:
 
