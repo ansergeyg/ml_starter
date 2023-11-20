@@ -19,6 +19,12 @@ Some ideas of what to create for ML (russian):
 
 https://habr.com/ru/companies/yandex_praktikum/articles/755238/
 
+
+Math (in russian):
+
+https://calculus.mathbook.info/chapter/label/chap:15:derivative/
+
+
 Russian course:
 
 https://dlcourse.ai/
