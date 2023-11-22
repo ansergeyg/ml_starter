@@ -29,6 +29,8 @@ Russian course:
 
 https://dlcourse.ai/
 
+https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
+
 kaggle learning guide:
 
 https://www.kaggle.com/learn
