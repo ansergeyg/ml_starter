@@ -14,3 +14,12 @@ sudo apt-get remove dkms
 Remove dkms Configurations and Data
 
 sudo apt-get -y purge dkms
+
+
+Some good points about dkms:
+
+Why don't we make DKMS packages the default packages for proprietary hw driver modules? 
+
+Because prebuilt modules in the repos are updated in lockstep with the kernel package, so you actually can't have a situation where the module version doesn't match the kernel unless you do a partial upgrade. 
+
+https://www.reddit.com/r/archlinux/comments/bib65t/why_dont_we_make_dkms_packages_the_default/
