@@ -34,7 +34,9 @@ https://docs.python.org/3/using/windows.html#removing-the-max-path-limitation
 How to increase max path length:
 
 a) Open command line and run gpedit.msc
+
 b) Administrative templates->System->Filesystem
+
 c) Enable Win32 long paths
 
 2) You need pip manager, but if you installed python from the previous step it should be included automatically.
