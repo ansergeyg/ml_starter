@@ -39,6 +39,7 @@ b) Administrative templates->System->Filesystem
 
 c) Enable Win32 long paths
 
+
 2) You need pip manager, but if you installed python from the previous step it should be included automatically.
 
 https://pip.pypa.io/en/stable/installation/
