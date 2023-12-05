@@ -21,7 +21,27 @@ It is same for pytorch. You need to find a version that works with CPU only.
 
 INSTALLATION:
 
-Just follow accurately the manual on the official page:
+1) Install python (on Windows 10)
+
+https://www.python.org/downloads/release/python-3120/
+
+Find windows installer, download and install it.
+
+Some notes to configure your windows 10:
+
+https://docs.python.org/3/using/windows.html#removing-the-max-path-limitation
+
+How to increase max path length:
+
+a) Open command line and run gpedit.msc
+b) Administrative templates->System->Filesystem
+c) Enable Win32 long paths
+
+2) You need pip manager, but if you installed python from the previous step it should be included automatically.
+
+https://pip.pypa.io/en/stable/installation/
+
+3) Just follow accurately the manual on the official page:
 
 https://www.tensorflow.org/install/pip#windows-native
 
