@@ -54,3 +54,12 @@ https://codeforces.com/blog/entry/60825
 
 gradient descent good example with some advanced mathematical examples
 https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21
+
+
+Most challenging stuff (maybe some day):
+
+reading research papers about ML.
+
+https://www.jmlr.org/
+
+s
