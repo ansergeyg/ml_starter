@@ -1,7 +1,15 @@
-```apt get-get install python -y
-apt get-get install python-numpy -y
-apt get-get install python-dev -y
-apt get-get install python-setuptools -y
+For python 3.11 use this:
+
+sudo add-apt-repository ppa:deadsnakes/ppa -y
+
+apt get-get install python3.11 -y
+
+```
+apt get-get install python3 -y
+apt get-get install python3-pip -y
+apt get-get install python3-numpy -y
+apt get-get install python3-dev -y
+apt get-get install python3-setuptools -y
 apt get-get install python3-scipy -y
 apt get-get install python3-matplotlib -y
 apt get-get install ipython3 -y
