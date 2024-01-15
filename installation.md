@@ -1,3 +1,39 @@
+'''apt get-get install python -y
+apt get-get install python-numpy -y
+apt get-get install python-dev -y
+apt get-get install python-setuptools -y
+apt get-get install python3-scipy -y
+apt get-get install python3-matplotlib -y
+apt get-get install ipython3 -y
+'''
+https://www.python.org/
+
+https://numpy.org/
+
+https://scipy.org/
+
+https://matplotlib.org/
+
+
+To add different versions use this command
+
+update-alternatives --install <link> <name> <path> <priority>
+
+Example:
+
+1)update-alternatives --install /usr/bin/python python /usr/bin/python2.7 1
+2)update-alternatives --install /usr/bin/python python /usr/bin/python3.8 2
+
+To see the list of versions:
+
+update-alternatives --list python
+
+To switch versions use:
+
+update-alternatives --config python
+
+and select version
+
 **What to actually install?**
 
 There is a lot of uncertainties when it comes to installing tensorflow or pytorch.
