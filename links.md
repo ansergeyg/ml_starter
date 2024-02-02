@@ -35,6 +35,9 @@ kaggle learning guide:
 
 https://www.kaggle.com/learn
 
+assessment of your ml skills:
+
+https://workera.ai/
 
 advanced stuff I don't understand yet
 
