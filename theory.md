@@ -19,3 +19,8 @@ a neural network with enough hidden neurons can approximate any continuous funct
 Which basically means if all the criterias of this theorem are met then by trying proper different math functions and enough computing resources you can build pretty accureate model for absolutely anything (anything that can be represented as a valid input for your model)! 
 
 That is why NN models mostly look the same. Because people just try to find proper functions to process their data more accurately. 
+
+
+Links:
+
+https://brilliant.org/wiki/newton-raphson-method/
