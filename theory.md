@@ -27,4 +27,4 @@ https://brilliant.org/wiki/newton-raphson-method/
 
 ---------------------------------------------------------------------------------------------
 
-**Error/cost/loss function:
+**Error/cost/loss function:**
