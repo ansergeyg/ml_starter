@@ -28,3 +28,20 @@ https://brilliant.org/wiki/newton-raphson-method/
 ---------------------------------------------------------------------------------------------
 
 **Error/cost/loss function:**
+
+Description goes here:
+
+**Gradient descent**
+
+Description goes here:
+
+**Supervised and unsupervised learning**
+
+Labeled data has two distinct uses in ML:
+
+1) Training
+2) Validation
+
+Unsupervised learning doesn't use trainid data (labeled data), but to actually find out if your algorithm works you still need some validation to comppare with.
+In this way unsupervised learning does use labeled data but for validation.
+
