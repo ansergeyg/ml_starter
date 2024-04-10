@@ -37,11 +37,18 @@ Description goes here:
 
 **Supervised and unsupervised learning**
 
+In supervised learning you use labeled training data to train your model. Labeled data is prepared manually by people. The cost function then takes
+labeled data (ideal expected parameters) and actual data (some input data) and is evaluated with respect to both expected and actual parameters. Now you can optimize (minimize/maximize)
+the cost function using some optimization methods like gradient descent.
+
+In unsupervised learning there is no labeled training data. Or is there any labeled data used in there?
+It's kind of logical not to expected any human labeling in the unsupervised training as the name suggests however:
+
 Labeled data has two distinct uses in ML:
 
 1) Training
 2) Validation
 
-Unsupervised learning doesn't use trainid data (labeled data), but to actually find out if your algorithm works you still need some validation to comppare with.
+Unsupervised learning doesn't use training data (labeled data), but to actually find out if your algorithm works you still need some validation to comppare with.
 In this way unsupervised learning does use labeled data but for validation.
 
