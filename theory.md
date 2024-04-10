@@ -24,3 +24,7 @@ That is why NN models mostly look the same. Because people just try to find prop
 Links:
 
 https://brilliant.org/wiki/newton-raphson-method/
+
+---------------------------------------------------------------------------------------------
+
+**Error/cost/loss function:
