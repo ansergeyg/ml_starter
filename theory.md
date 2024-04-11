@@ -52,3 +52,12 @@ Labeled data has two distinct uses in ML:
 Unsupervised learning doesn't use training data (labeled data), but to actually find out if your algorithm works you still need some validation to comppare with.
 In this way unsupervised learning does use labeled data but for validation.
 
+
+**Good ml coding problems for exercising**
+
+https://www.gptandchill.ai/codingproblems
+
+----------------------------------------------------------------------------------------------
+**Advaned stuff:**
+
+https://www.tensorflow.org/text/tutorials/transformer
