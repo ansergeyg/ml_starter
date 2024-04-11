@@ -31,6 +31,8 @@ https://brilliant.org/wiki/newton-raphson-method/
 
 Description goes here:
 
+https://www.machinelearningworks.com/tutorials/mean-squared-error-cost-function
+
 **Gradient descent**
 
 Description goes here:
