@@ -54,6 +54,25 @@ Labeled data has two distinct uses in ML:
 Unsupervised learning doesn't use training data (labeled data), but to actually find out if your algorithm works you still need some validation to comppare with.
 In this way unsupervised learning does use labeled data but for validation.
 
+**CNN**
+
+Description goes here:
+
+**RNN**
+
+Recurrent Neural Network:
+
+The only type of NN that has memory. They are good for sequential data processing (text, voice, video, time related data). Memory helps them to "predict" next "possible" things. 
+
+***LSTM***
+
+Long Short Term Memory (Neural Network) - is a type of RNN 
+
+***GRU***
+
+Gated Recurrent Units (Neural Network) - is a type of RNN.
+Description goes here:
+
 
 **Good ml coding problems for exercising**
 
