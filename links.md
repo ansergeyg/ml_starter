@@ -1,3 +1,7 @@
+Nice visualization of LLMs:
+
+https://bbycroft.net/llm
+
 Installation & configuration
 
 https://www.youtube.com/watch?v=hHWkvEcDBO0
